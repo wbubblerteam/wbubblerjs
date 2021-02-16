@@ -1,0 +1,10 @@
+{
+  "name": "wbubbler",
+  "version": "1.0.4",
+  "description": "The Wbubbler package.",
+  "main": "index.js",
+  "keywords": [
+    "wbubbler"
+  ],
+  "author": "forevertoo"
+}
