@@ -18,7 +18,7 @@ I think that's it !
 
 # copyright
 
-(c) forevertoo - 2021
+© forevertoo - 2021
 
 
 special thanks to the actual wbubbler on Discord (Wbubbler#7474) !
